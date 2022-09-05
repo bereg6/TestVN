@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea7d64c9.css",
+    "main.js": "/static/js/main.9a7cbce3.js",
+    "static/media/Chillax-Bold.ttf": "/static/media/Chillax-Bold.afec4fb98c81e138a906.ttf",
+    "static/media/PlusJakartaDisplay-Medium.eot": "/static/media/PlusJakartaDisplay-Medium.3457a6a31b8881baaa09.eot",
+    "static/media/PlusJakartaDisplay-Regular.eot": "/static/media/PlusJakartaDisplay-Regular.d5e1829291614316989b.eot",
+    "static/media/PlusJakartaDisplay-Regular.ttf": "/static/media/PlusJakartaDisplay-Regular.8f177617fd3af2030974.ttf",
+    "static/media/PlusJakartaDisplay-Medium.ttf": "/static/media/PlusJakartaDisplay-Medium.4d7cb84b2dddf0f39660.ttf",
+    "static/media/PlusJakartaDisplay-Bold.eot": "/static/media/PlusJakartaDisplay-Bold.a7152f817855378add40.eot",
+    "static/media/PlusJakartaDisplay-Bold.ttf": "/static/media/PlusJakartaDisplay-Bold.f3d1402d4a73016b2479.ttf",
+    "static/media/Chillax-Bold.woff": "/static/media/Chillax-Bold.d9d078aa32cadb070c02.woff",
+    "static/media/PlusJakartaDisplay-Medium.woff": "/static/media/PlusJakartaDisplay-Medium.43bcfbc8aaf338fd48e3.woff",
+    "static/media/PlusJakartaDisplay-Bold.woff": "/static/media/PlusJakartaDisplay-Bold.fd41df160f02263bd4e3.woff",
+    "static/media/PlusJakartaDisplay-Regular.woff": "/static/media/PlusJakartaDisplay-Regular.95b987d23e81a1d7f254.woff",
+    "static/media/Chillax-Bold.woff2": "/static/media/Chillax-Bold.74d1529a0c0254642d50.woff2",
+    "index.html": "/index.html",
+    "main.ea7d64c9.css.map": "/static/css/main.ea7d64c9.css.map",
+    "main.9a7cbce3.js.map": "/static/js/main.9a7cbce3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea7d64c9.css",
+    "static/js/main.9a7cbce3.js"
+  ]
+}
